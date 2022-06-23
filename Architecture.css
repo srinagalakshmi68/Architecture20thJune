@@ -1,0 +1,9 @@
+.floor {
+    width: 300px;
+    margin: 0px auto;
+}
+
+td {
+    align-items: center;
+    justify-content: center;
+}
